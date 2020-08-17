@@ -1,0 +1,17 @@
+# Node
+npm-debug.log
+
+# Mac
+.DS_Store
+
+# vi
+*~
+
+# dotfiles
+.env-development
+.env
+*.swo
+*.swp
+*.pw
+vim/bundle/
+vim/plugged/
